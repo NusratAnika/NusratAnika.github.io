@@ -1,8 +1,8 @@
 <html>
 <body>
 
-<h1><b> Nusrat Jahan Anika</b></h1> 
-<h2>email: nusrat35-1977@diu.edu.bd</h2>
+<h1><b><p style="color:DodgerBlue;"> Nusrat Jahan Anika</p></b></h1> 
+<h2><p style="color:DodgerBlue;">nusrat35-1977@diu.edu.bd </p></h2>
 <h2><a href="https://sites.google.com/diu.edu.bd/njanika/home">Google Site</a></h2>
 <h2><a href="www.linkedin.com/in/njanika">Linkedin</a></h2>
 
