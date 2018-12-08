@@ -31,13 +31,13 @@
     <th>B.Sc.</th>
     <th>3.20/4.00</th>
   </tr>
-  
+  </table>
   <h2>Experience</h2>
-  <ul>
+  <ul style="list-style-type:disc>
   <li>Trainer, Narayangong Computer Training Center</li>
   <li>Taught MS word and power point</li>
-  <li>Teaching student </li>
-</ul>  
+  <li>Teaching students </li>
+  </ul>  
 
 </body>
 </html>
