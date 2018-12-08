@@ -93,7 +93,7 @@
 <ul>
   <li>Lecturer, SWE, DIU </li>
   <li> alamgir.swe@diu.edu.bd</li>
-  <li>01782 176674</li>
+  <li>8801782176674</li>
   </ul> 
 
 
