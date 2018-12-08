@@ -16,16 +16,28 @@
     <th>Result</th>
   </tr>
   <tr>
-    <th>2012</th>
+    <th>2013</th>
     <th>S.S.C.</th>
     <th>4.75/5.00</th>
   </tr>
 
   <tr>
-    <th>2014</th>
+    <th>2015</th>
     <th>H.S.C.</th>
     <th>4.55/5.00</th>
   </tr>
+  <tr>
+    <th>2017-ongoing</th>
+    <th>B.Sc.</th>
+    <th>3.20/4.00</th>
+  </tr>
+  
+  <h2>Experience</h2>
+  <ul>
+  <li>Trainer, Narayangong Computer Training Center</li>
+  <li>Taught MS word and power point</li>
+  <li>Teaching student </li>
+</ul>  
 
 </body>
 </html>
